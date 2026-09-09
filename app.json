@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Route 66 Bikers",
+    "slug": "route66-bikers",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#1A1A1A"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.route66bikers.app"
+    },
+    "android": {
+      "package": "com.route66bikers.app",
+      "permissions": [
+        "CAMERA",
+        "RECORD_AUDIO",
+        "INTERNET",
+        "MODIFY_AUDIO_SETTINGS"
+      ]
+    }
+  }
+}
